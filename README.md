@@ -7,7 +7,7 @@ How to install:
 How to use:
 
 -Open the exe
--type the path to your glb file (exemple "C:\glbs\glbfile.glb")
+-type the path to your glb file (example "C:\glbs\glbfile.glb")
 -press enter
 
 Remember:
